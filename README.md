@@ -2,6 +2,8 @@
 
 一些小的东西都在优信电子买的
 
+[原装 | USB3300-EZK 3300-EZK QFN32 接口-控制器 集成 IC芯片-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=615706097828&_u=b20q7cgb7b9f)
+
 [800支/盒 镀镍沉头十字螺丝M2*4/5/6/8/10/12/16/20 自攻尖头螺丝-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=571154046536&_u=b20q7cgb74bb)
 
 [30万像素USB2.0免驱动GC0307模块一体机笔记本电脑 摄像头模组-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=567717780577&_u=b20q7cgb6b84)
