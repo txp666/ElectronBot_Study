@@ -42,3 +42,15 @@
 
 [贴片稳压三极管 TL431 印字431 SOT-23 精度0.5%（30只）-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dJ6XlJx&id=554339815306&_u=b20q7cgbc675)
 
+
+
+**优信：小东西**
+
+**8p上下接都可以、把正反排线都买上就行，自己选择**[FFC/FPC连接器0.5MM 上接 下接 翻盖下接 4/6/8/10/12/14/16—40P-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.62442e8dmareSl&id=552629356951&_u=g20q7cgb4b1f)
+
+[贴片USB-3.1插座 Type-C母座 16P 高清传输接口 4固定插脚 双向-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.62442e8demH03x&id=573090887123&_u=g20q7cgb5a83)
+
+**卧贴3、4、5p**[SH1.0MM 2/3/4/5/6/7/8/9/10P 卧贴 连接器 接插件 贴片插座 10只-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.62442e8demH03x&id=565715285795&_u=g20q7cgbab7d)
+
+**3、4、5p**[SH1.0mm 2/3/4/5/6/7/8/9/10P 单/双头 电子端子线 长10CM连接线-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.62442e8demH03x&id=565360096163&_u=g20q7cgb107d)
+
