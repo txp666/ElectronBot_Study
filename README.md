@@ -12,7 +12,7 @@
 
 **贵原程序所用**[原装正品STM32F042F6P6 TSSOP-20 ARM Cortex-M0 32位微控制器MCU-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=585946327112&_u=b20q7cgb12d4)
 
-**舵机控制板芯片建议买这个便宜的！****有修改的ll库代码**
+**舵机控制板芯片建议买这个便宜的！有修改的ll库代码**
 
 [原装正品贴片STM32F030F4P6 微控制器 32位 CORTEX-M0 TSSOP-20-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.14.6ce87484rl1x1l&id=522554611977)
 
