@@ -36,7 +36,7 @@
 
 [【优信电子】GY-PAJ7620U2手势识别传感器模块 多种手势识别/智能-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=571178228286&_u=b20q7cgb3b28)
 
-**3.3**[LP2992AIM5X-3.3/2981AIM5-3.3/NOPB 稳压器 IC SOT23-5 全新原装-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dJ6XlJx&id=600231832095&_u=b20q7cgbdd1c)
+**LP2992-3.3**[LP2992AIM5X-3.3/2981AIM5-3.3/NOPB 稳压器 IC SOT23-5 全新原装-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dJ6XlJx&id=600231832095&_u=b20q7cgbdd1c)
 
 [ST-LINK V2 STM8/STM32仿真器编程器stlink下载器线烧录器调试器-tmall.com天猫](https://detail.tmall.com/item.htm?id=624049627826&spm=a1z09.2.0.0.67002e8dJ6XlJx&_u=b20q7cgb4481&skuId=4413160637506)
 
