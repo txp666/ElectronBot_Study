@@ -13,8 +13,6 @@ ElectronLowLevel robot;
 
 int main()
 {
-	
-
 	if (robot.Connect())
 		printf("Robot connected!\n");
 	else
@@ -28,13 +26,9 @@ int main()
 
 	while (1)
 	{
-
-
-		//
-		FaceShow();
-
-		
-
+		if (!FaceShow()) {
+			break;
+		};
 	}
 
 	getchar();
@@ -44,14 +38,13 @@ int FaceShow() {
 	VideoCapture cap;
 	if (!cap.open(0)) {
 		cout << "摄像头打开失败!!" << endl;
-		return -1;
+		return 0;
 	}
 	//替换为自己的opencv库
 	if (!faceCascade.load("D:\\SoftWare\\opencv\\sources\\data\\haarcascades\\haarcascade_frontalface_alt2.xml")) {
 		cout << "人脸检测级联分类器没找到！！" << endl;
-		return -1;
+		return 0;
 	}
-
 	Mat img, imgGray;
 	int fps = 60;
 	while (true) {
@@ -63,7 +56,7 @@ int FaceShow() {
 		DetectFace(img, imgGray);
 		waitKey(1000 / fps);
 	}
-	return 0;
+	return 1;
 }
 void DetectFace(Mat img, Mat imgGray) {
 
@@ -95,6 +88,10 @@ void DetectFace(Mat img, Mat imgGray) {
 	{
 		imshow("output", faceROI);
 		robot.SetImageSrc(faceROI);
+		robot.Sync();
+	}
+	else {
+		robot.SetImageSrc("NoFace.jpg");//没有检测到人脸//图片要放入工程
 		robot.Sync();
 	}
 	imshow("src", img);
