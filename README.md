@@ -22,8 +22,6 @@ QQ群：147597938
 
 [30万像素USB2.0免驱动GC0307模块一体机笔记本电脑 摄像头模组-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=567717780577&_u=b20q7cgb6b84)
 
-**建议混装**[自攻尖角圆头十字微型小号电子尖尾螺丝功维修配件迷你混装小钉子-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=564183140313&_u=b20q7cgbbd3b)
-
 **贵原程序所用**[原装正品STM32F042F6P6 TSSOP-20 ARM Cortex-M0 32位微控制器MCU-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=585946327112&_u=b20q7cgb12d4)
 
 **舵机控制板芯片建议买这个便宜的！有修改的ll库代码**
