@@ -20,6 +20,8 @@ QQ群：147597938
 
 [800支/盒 镀镍沉头十字螺丝M2*4/5/6/8/10/12/16/20 自攻尖头螺丝-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=571154046536&_u=b20q7cgb74bb)
 
+**<u>螺丝挑几个M2*4,5,6的买点就行，我图方便买了一盒</u>**
+
 [30万像素USB2.0免驱动GC0307模块一体机笔记本电脑 摄像头模组-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=567717780577&_u=b20q7cgb6b84)
 
 **贵原程序所用**[原装正品STM32F042F6P6 TSSOP-20 ARM Cortex-M0 32位微控制器MCU-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=585946327112&_u=b20q7cgb12d4)
