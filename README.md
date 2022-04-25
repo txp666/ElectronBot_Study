@@ -29,7 +29,7 @@ QQ群：147597938
 | [24MHz](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=569633363622&_u=b20q7cgb7b7b) | 晶振-3P                    | 1    | 晶振     |                                                |
 | [8MHz](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=569633363622&_u=b20q7cgb7b7b) | 晶振-3P                    | 1    |          |                                                |
 | [CP2102](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-21223910208.11.38616a4bJvtoO5&id=522575454240) | QFN-28                     | 1    | 芯片     |                                                |
-| [LP2992 3V3](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dJ6XlJx&id=600231832095&_u=b20q7cgbdd1c) | SOT23-5                    | 8    |          |                                                |
+| [LP2992 3V3](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dJ6XlJx&id=600231832095&_u=b20q7cgbdd1c) | SOT23-5                    | 8    |          |                    多买几个                    |
 | [STM32F405RGT6](https://item.taobao.com/item.htm?spm=2013.1.w4018-21223910180.7.37634c481b1TNL&scm=1007.11837.279802.0&id=522577756409&pvid=aa1f18aa-1d2d-4c48-aca4-2510d8bd8b76) | LQFP-64_N                  | 1    |          |                                                |
 | [STM32F030F6](https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.14.6ce87484rl1x1l&id=522554611977) | TSSOP-20                   | 6    |          |                                                |
 | [USB3300-EZK-TR](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=615706097828&_u=b20q7cgb7b9f) | QFN-32                     | 1    |          |                                                |
@@ -41,8 +41,7 @@ QQ群：147597938
 | [TL431IDBZT](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dJ6XlJx&id=554339815306&_u=b20q7cgbc675) | SOT23-3                    | 6    |          |                                                |
 | [Type-C](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.62442e8demH03x&id=573090887123&_u=g20q7cgb5a83) |                            | 1    | 连接件   |                                                |
 | [FFC_0.5_8](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.62442e8dmareSl&id=552629356951&_u=g20q7cgb4b1f) | FFC_0.5_8                  | 4    |          |                                                |
-| [SH1.0-3P-STAND](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.62442e8demH03x&id=565715285795&_u=g20q7cgbab7d) | SH1.0-3P-STAND             | 1    |          |                  3 4 5p都买点                  |
-| [SH1.0-4P](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.62442e8demH03x&id=565715285795&_u=g20q7cgbab7d) | SH1.0-4P                   | 6    |          |                                                |
+| [SH1.0-4P](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.62442e8demH03x&id=565715285795&_u=g20q7cgbab7d) | SH1.0-4P                   | 10   |          |                 3 4 5p都多买点                 |
 | TF-Socket                                                    | TF-Card-Amphenol with TF   | 1    |          |                    可以不买                    |
 | [LCD-240x240-ROUND](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-21223910208.30.702c6a4b7BuIxy&id=665316624303) | GC9A01                     | 1    |          |                                                |
 | [表盘](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=624702562166&_u=b20q7cgb2244) | 31.5mm                     | 1    |          |                                                |
