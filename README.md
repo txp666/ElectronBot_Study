@@ -8,6 +8,10 @@
 | [stlink驱动](https://link.jscdn.cn/sharepoint/aHR0cHM6Ly90eHA2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvdHhwX3R4cDY2Nl9vbm1pY3Jvc29mdF9jb20vRVJ6a0ZzUno0SDVJcEdBTTdCdjUxY1FCSXdGcGhiN1kxR0g0cWpKc19EWmhXdz9lPUl4dWdlVA.zip) | [cp2102驱动 ](https://link.jscdn.cn/sharepoint/aHR0cHM6Ly90eHA2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvdHhwX3R4cDY2Nl9vbm1pY3Jvc29mdF9jb20vRWVkU2xyZzM5TlZNajFoNDF6Um9YandCdUpYc1I4WGlBNTZwSUZRUUVvM19mQT9lPXVDcDdUdg.zip) | [gcc](https://link.jscdn.cn/sharepoint/aHR0cHM6Ly90eHA2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvdHhwX3R4cDY2Nl9vbm1pY3Jvc29mdF9jb20vRWR1V3pJWW9haVZDdEF1a3gwVERXY0FCaWhnV3YtREZ1M1JodkdreXRqckZMZz9lPTk4dllENw.zip) |
 | [MinGW](https://link.jscdn.cn/sharepoint/aHR0cHM6Ly90eHA2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvdHhwX3R4cDY2Nl9vbm1pY3Jvc29mdF9jb20vRVEzQ2d2bjhrZ1JQcFJtWGVRSGJEWElCNEJ1dnRxVHl6eElyMkoxT1VsdXRrdz9lPXRjbzVpdA.zip) | [openocd](https://link.jscdn.cn/sharepoint/aHR0cHM6Ly90eHA2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvdHhwX3R4cDY2Nl9vbm1pY3Jvc29mdF9jb20vRVctazg0LUcwZ05NdDk3SGF0TFl3MXdCZ0VPY29QLWphLUhxTDd6THlHLUY1QT9lPTdJa0ROYg.zip) |                                                              |
 
+无法下载或下载速度慢可以用百度网盘
+
+链接: https://pan.baidu.com/s/1rAh0p-XfMvv7GkYGNYEBRQ?pwd=6twz 提取码: 6twz 复制这段内容后打开百度网盘手机App，操作更方便哦
+
 QQ群：147597938
 
 | 值                                                           | 封装                       | 数量 | 分类     |                      备注                      |
