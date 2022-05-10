@@ -46,7 +46,7 @@ QQ群：147597938
 | [TL431IDBZT](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dJ6XlJx&id=554339815306&_u=b20q7cgbc675) | SOT23-3                    | 6    |          |                                                       |
 | [Type-C](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.62442e8demH03x&id=573090887123&_u=g20q7cgb5a83) |                            | 1    | 连接件   |                                                       |
 | [FFC_0.5_8](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.62442e8dmareSl&id=552629356951&_u=g20q7cgb4b1f) | FFC_0.5_8                  | 4    |          |                                                       |
-| [SH1.0-4P](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.62442e8demH03x&id=565715285795&_u=g20q7cgbab7d) | SH1.0-4P                   | 10   |          |                    3 4 5p都多买点                     |
+| [SH1.0-4P](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.62442e8demH03x&id=565715285795&_u=g20q7cgbab7d) | SH1.0-4P                   | 10   |          |            3 4 p都多买点5p是DK板的可以不买            |
 | TF-Socket                                                    | TF-Card-Amphenol with TF   | 1    |          |                       可以不买                        |
 | [LCD-240x240-ROUND](https://item.taobao.com/item.htm?spm=a210c.1.0.0.79791debq2j2F8&id=666438287702&qq-pf-to=pcqq.c2c) | GC9A01                     | 1    |          |                                                       |
 | [表盘](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=624702562166&_u=b20q7cgb2244) | 31.5mm                     | 1    |          |                                                       |
@@ -54,7 +54,7 @@ QQ群：147597938
 | [FFC排线](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5cf62e8dtZRRxc&id=549590794021&_u=p20q7cgb7a40) | 0.5*8                      | 10   |          |                 同向反向都买点，10cm                  |
 | [4.3g舵机](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=601889539677&_u=b20q7cgb34d4) |                            | 5    |          |                                                       |
 | [9g舵机](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5cf62e8dtZRRxc&id=577455964879&_u=p20q7cgb27e6) |                            | 1    |          |                                                       |
-| [SH1.0 4p线](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.62442e8demH03x&id=565360096163&_u=g20q7cgb107d) |                            | 6    |          |                     3 4 5p都买点                      |
+| [SH1.0 4p线](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.62442e8demH03x&id=565360096163&_u=g20q7cgb107d) |                            | 6    |          |            3 4 p都买点 5p是DK板的可以不买             |
 | [推杆](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=597058278501&_u=b20q7cgb396b) | M2*25                      | 2    |          |                                                       |
 | [轴承](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=550670695721&_u=b20q7cgbace2)      [轴承](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=626925470285&_u=b20q7cgbb95a) | 肩膀6x10x3mm 腰部25x32x4mm |      |          |                   内径25外径32高度4                   |
 | [螺丝](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=571154046536&_u=b20q7cgb74bb) | M2                         | 若干 |          |    螺丝挑几个M2*4,5,6的买点就行，我图方便买了一盒     |
