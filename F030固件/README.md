@@ -9,3 +9,8 @@ n=1-6 对应 id 2~12
 **PS**: 上位机体调试的时候，如果舵机转动方向与上位机中的不一样，调换电机线，同时调换电位器正反（adc以外的两条）即可
 
 ![id](https://user-images.githubusercontent.com/52451470/164890677-099a2010-8218-4732-b889-47cd77226090.png)
+
+
+**注意**stlinkUtility连接舵机板设置如下
+
+![屏幕截图 2022-05-20 202718](https://user-images.githubusercontent.com/52451470/169528242-aaeb6aa1-e515-457f-9746-c66ecbd3c76d.png)
