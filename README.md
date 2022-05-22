@@ -58,3 +58,4 @@ QQ群：147597938
 | [推杆](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=597058278501&_u=b20q7cgb396b) | M2*25                      | 2    |          |                                                       |
 | [轴承](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=550670695721&_u=b20q7cgbace2)      [轴承](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=626925470285&_u=b20q7cgbb95a) | 肩膀6x10x3mm 腰部25x32x4mm |      |          |                   内径25外径32高度4                   |
 | [螺丝](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f3c2e8df9Af9i&id=571154046536&_u=b20q7cgb74bb) | M2                         | 若干 |          |    螺丝挑几个M2*4,5,6的买点就行，我图方便买了一盒     |
+| [m1*10](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.98452e8dyw0XaE&id=591244120254&_u=m20q7cgb4fc2) | 舵机拆后壳后固定           | 12   |          |                                                       |
