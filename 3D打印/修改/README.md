@@ -19,3 +19,4 @@
 **5.31更新：**
 
 齿轮组合与肩部转轴升级   更换了齿轮与肩轴连接方式不会空转
+![pic1](https://user-images.githubusercontent.com/52451470/171098586-6cdf1477-cd68-45e8-a810-5d4c16544784.png)
