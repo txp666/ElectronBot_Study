@@ -10,7 +10,7 @@
 
 无法下载或下载速度慢可以用百度网盘
 
-链接: https://pan.baidu.com/s/1rAh0p-XfMvv7GkYGNYEBRQ?pwd=6twz 提取码: 6twz 复制这段内容后打开百度网盘手机App，操作更方便哦
+链接: https://pan.baidu.com/s/1p0newnkKFVqm6W-avRse6w?pwd=cxn6 提取码: cxn6 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 QQ群：147597938
 
