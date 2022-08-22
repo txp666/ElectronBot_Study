@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\Prj\ElectronBot\1.Hardware\SensorBoard\SensorBoard.PcbDoc
+DRC Rules Export File for PCB: D:\Prj\ElectronBot_Study\PCBÐÞ¸Ä\SensorBoard\SensorBoard.PcbDoc
 RuleKind=Clearance|RuleName=Clearance_Logo|Scope=Board|Minimum=8.00
 RuleKind=Width|RuleName=Logo|Scope=Board|Minimum=0.10
 RuleKind=Width|RuleName=VCC|Scope=Board|Minimum=4.00

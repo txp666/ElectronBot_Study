@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : D:\Prj\ElectronBot\1.Hardware\SensorBoard\SensorBoard.PcbDoc
+PCB File : D:\Prj\ElectronBot_Study\PCBÐÞ¸Ä\SensorBoard\SensorBoard.PcbDoc
 Date     : 2022/8/22
-Time     : 15:45:31
+Time     : 16:12:30
 
 Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
 Rule Violations :0
@@ -54,4 +54,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
