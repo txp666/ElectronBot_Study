@@ -12,8 +12,6 @@ ServoDrive：
 
 增加SensorBoardConnecter和ServoDriveConnecter 可以将舵机转FPC连接  （可选项，不需要打也行）
 
-![(../Images/2.jpg)
-
 ![](../Images/3.jpg)
 
 # 2022/7/24更新
