@@ -1,16 +1,20 @@
+## 2022/11/26更新
 
+主板电阻电容增大间距，不易连锡；
 
-## 2022/11/4更新
+CP2102兼容了[CH9102X](https://item.taobao.com/item.htm?spm=a230r.1.14.6.1bea68c9lNiSzG&id=675981384914&ns=1&abbucket=11#detail) 这个便宜一点；如果装CP2102左下角的0.1UF可不焊。
 
-使用4pFPC连接舵机
+![](../Images/6.jpg)
 
-![](../Images/1.jpg)
+ServoDrive：
 
-![](../Images/2.jpg)
+![](../Images/7.jpg)
+
+增加SensorBoardConnecter和ServoDriveConnecter 可以将舵机转FPC连接  （可选项，不需要打也行）
+
+![(../Images/2.jpg)
 
 ![](../Images/3.jpg)
-
-![](../Images/4.jpg)
 
 # 2022/7/24更新
 
