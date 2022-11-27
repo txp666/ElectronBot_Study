@@ -1,3 +1,5 @@
+# [立创EDA工程已同步](https://oshwhub.com/txp666/electronbot_study)
+
 ## 2022/11/26更新
 
 主板电阻电容增大间距，不易连锡；
