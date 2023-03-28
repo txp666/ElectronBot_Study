@@ -5,7 +5,7 @@ Robot electron;
 void setup()
 {
   Wire.begin(8, 9); //sda 8,scl 9
-  vTaskDelay(2000);
+  delay(2000);
   Serial.begin(115200);
 
 }
@@ -26,13 +26,13 @@ void loop()
     float angle = i;
     electron.UpdateJointAngle(electron.joint[n], angle);
 
-    vTaskDelay(20);
+    delay(20);
   }
   for (int i = 90; i > -90; i -= 1)
   {
     float angle = i;
     electron.UpdateJointAngle(electron.joint[n], angle);
 
-    vTaskDelay(20);
+    delay(20);
   }
 }

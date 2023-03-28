@@ -87,7 +87,7 @@ void Robot::SetJointTorqueLimit(Robot::JointStatus_t &_joint, float _percent)
 
         _joint.angle = *(float *)(i2cRxData + 1);
 
-        vTaskDelay(500); // wait servo reset
+        delay(500); // wait servo reset
     }
 }
 
@@ -100,7 +100,7 @@ void Robot::SetJointId(Robot::JointStatus_t &_joint, uint8_t _id)
 
     _joint.angle = *(float *)(i2cRxData + 1);
 
-    vTaskDelay(500); // wait servo reset
+    delay(500); // wait servo reset
 }
 
 void Robot::SetJointInitAngle(Robot::JointStatus_t &_joint, float _angle)
@@ -126,7 +126,7 @@ void Robot::SetJointInitAngle(Robot::JointStatus_t &_joint, float _angle)
 
         _joint.angle = *(float *)(i2cRxData + 1);
 
-        vTaskDelay(500); // wait servo reset
+        delay(500); // wait servo reset
     }
 }
 
@@ -142,7 +142,7 @@ void Robot::SetJointKp(Robot::JointStatus_t &_joint, float _value)
 
     _joint.angle = *(float *)(i2cRxData + 1);
 
-    vTaskDelay(500); // wait servo reset
+    delay(500); // wait servo reset
 }
 
 void Robot::SetJointKi(Robot::JointStatus_t &_joint, float _value)
@@ -157,7 +157,7 @@ void Robot::SetJointKi(Robot::JointStatus_t &_joint, float _value)
 
     _joint.angle = *(float *)(i2cRxData + 1);
 
-    vTaskDelay(500); // wait servo reset
+    delay(500); // wait servo reset
 }
 
 void Robot::SetJointKv(Robot::JointStatus_t &_joint, float _value)
@@ -172,7 +172,7 @@ void Robot::SetJointKv(Robot::JointStatus_t &_joint, float _value)
 
     _joint.angle = *(float *)(i2cRxData + 1);
 
-    vTaskDelay(500); // wait servo reset
+    delay(500); // wait servo reset
 }
 
 void Robot::SetJointKd(Robot::JointStatus_t &_joint, float _value)
@@ -187,7 +187,7 @@ void Robot::SetJointKd(Robot::JointStatus_t &_joint, float _value)
 
     _joint.angle = *(float *)(i2cRxData + 1);
 
-    vTaskDelay(500); // wait servo reset
+    delay(500); // wait servo reset
 }
 
 void Robot::UpdateJointAngle(Robot::JointStatus_t &_joint)
