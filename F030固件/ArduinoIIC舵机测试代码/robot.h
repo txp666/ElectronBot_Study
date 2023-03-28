@@ -13,11 +13,11 @@ public:
     {
         joint[ANY] = JointStatus_t(0, -180, 180, 90);
         joint[1] = JointStatus_t(1, 10, 80, 0, -15, 15, true);
-        joint[2] = JointStatus_t(4, -34, 10, 0, 0, 30, false);
-        joint[3] = JointStatus_t(6, -16, 147, 0, -20, 180, false);
-        joint[4] = JointStatus_t(8, 130, 190, 0, 0, 30, true);
-        joint[5] = JointStatus_t(10, 10, 160, 0, -20, 180, true);
-        joint[6] = JointStatus_t(12, 0, 180, 0, -90, 90, false);
+        joint[2] = JointStatus_t(2, -34, 10, 0, 0, 30, false);
+        joint[3] = JointStatus_t(3, -16, 147, 0, -20, 180, false);
+        joint[4] = JointStatus_t(4, 130, 190, 0, 0, 30, true);
+        joint[5] = JointStatus_t(5, 10, 160, 0, -20, 180, true);
+        joint[6] = JointStatus_t(6, 0, 180, 0, -90, 90, false);
     };
     /********* Need to adjust parameters for specific hardware *********/
 
